@@ -65,7 +65,5 @@ class Settings(BaseSettings):
     # Database settings
     # ----------------------------------------------------------------
 
-    POSTGRESQL_URL: PostgresDsn
-    MONGO_URL: MongoDsn
-    REDIS_URL: RedisDsn
+
 
